@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/home"
+    android:enabled="true"
+    android:title="@string/home"
+    android:icon="@drawable/ic_baseline_home_24"/>
+    <item android:id="@+id/product"
+        android:enabled="true"
+        android:title="@string/products"
+        android:icon="@drawable/ic_baseline_view_compact_24"/>
+    <item android:id="@+id/service"
+        android:enabled="true"
+        android:title="@string/services"
+        android:icon="@drawable/ic_baseline_home_repair_service_24"/>
+    <item android:id="@+id/Book"
+        android:enabled="true"
+        android:title="@string/book"
+        android:icon="@drawable/ic_baseline_book_24"/>
+</menu>

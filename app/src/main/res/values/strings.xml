@@ -7,4 +7,7 @@
     <string name="products">Products</string>
     <string name="services">Services</string>
     <string name="book">Book</string>
+    <string name="braids">Braids</string>
+    <string name="hair_oil">Hair Oil</string>
+    <string name="others">Others</string>
 </resources>

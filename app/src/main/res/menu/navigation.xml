@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/braids"
+        android:title="@string/braids"
+        android:visible="true" />
+    <item
+        android:id="@+id/oil"
+        android:title="@string/hair_oil"
+        android:visible="true" />
+    <item
+        android:id="@+id/others"
+        android:title="@string/others"
+        android:visible="true" />
+
+</menu>
